@@ -1,35 +1,37 @@
-# Unstop-UI
+# platform_assignment
 
 ## Introduction
-This is a User Interface design with add assesment functionality with the help of Figma.
+This is a product app page here Explore, Select, Buy – Effortless Shopping Made Simple!
 
 Deployed App
-https://graceful-crumble-4eaf91.netlify.app/
-
+https://delightful-klepon-8bc990.netlify.app/
 ## Fully Responsive:-
 ## 1.desktop view
-![image](https://github.com/ruchipriya1009/platform_assignment/assets/105973023/1a129981-ccf6-4cf6-bd6b-e5c7b579637f)
+![image](https://github.com/ruchipriya1009/platform_assignment/assets/105973023/028e1ee8-4231-421a-930f-b8190e8fd356)
+![image](https://github.com/ruchipriya1009/platform_assignment/assets/105973023/ff8dacf1-a9c6-4224-86a0-eabcf4004773)
+![image](https://github.com/ruchipriya1009/platform_assignment/assets/105973023/36adbd14-a34a-4366-bfa3-d28ba72bdb2d)
+
+
+
 
 ## 2.tablet view
-<img width="476" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/fad7802a-4b12-4c75-897c-aefcc0bcf542">
+![image](https://github.com/ruchipriya1009/platform_assignment/assets/105973023/278596e5-aa03-4d42-8401-61ca0eb8065a)
+
 
 
 ## 3.mobile view
-<img width="227" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/4dd500f0-3662-4752-8fa2-4b2a094ab1d1">
+![image](https://github.com/ruchipriya1009/platform_assignment/assets/105973023/52d90877-5e78-48c6-880d-8c7108abae2b)
 
-<img width="154" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/49ba3f69-0235-4f7a-87ff-9deca3a8b764">
 
-<img width="217" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/849831b3-bf3b-444a-92d5-13c8725e6269">
-
-<img width="166" alt="image" src="https://github.com/ruchipriya1009/Unstop_assn/assets/105973023/b970f746-27b3-4a67-8070-d94f4454d469">
 
 ## Features
 List out the key features of your application.
-- Drawer
-- Modal
-- add assesment
-- hamburg
-- Responsive for tablet viw, mobile view
+-add product into cart
+-increase item
+-checkout
+-remove from cart
+-order
+
   
 
 ## Installation & Getting started
@@ -47,5 +49,4 @@ npm start
 - HTML
 - CSS
 - React-Responsive
-- Figma
-- localstorage (DOM)
+- JSON
